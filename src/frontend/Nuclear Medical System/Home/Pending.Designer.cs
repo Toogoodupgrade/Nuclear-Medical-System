@@ -202,7 +202,7 @@
             // label7
             // 
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(243, 426);
+            this.label7.Location = new System.Drawing.Point(235, 394);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(391, 30);
             this.label7.TabIndex = 15;
@@ -351,7 +351,7 @@
             // 
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.panel4);
-            this.panel5.Location = new System.Drawing.Point(261, 478);
+            this.panel5.Location = new System.Drawing.Point(253, 446);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1563, 531);
             this.panel5.TabIndex = 19;

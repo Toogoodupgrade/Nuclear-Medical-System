@@ -1,5 +1,5 @@
 from database import Base
-from sqlalchemy import String,Column,DateTime,ForeignKey
+from sqlalchemy import String,Column,ForeignKey
 from sqlalchemy.orm import relationship
 
 class Lab_ReqDetailDB(Base):

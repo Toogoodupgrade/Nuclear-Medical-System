@@ -14,6 +14,3 @@ class PatientDB(Base):
     pt_medical_condition = Column(String(255),nullable=True)
     pt_affiliation = Column(String(50),nullable=False)
     right_id = Column(String(10),ForeignKey("patient_right.right_id"),nullable=False)
-
-    # right = relationship("PatientRightDB")
-    # queue = relationship("QueueDB")

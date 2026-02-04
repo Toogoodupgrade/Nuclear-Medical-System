@@ -11,4 +11,3 @@ class Rad_ReqDetailDB(Base):
     otherpart = Column(String(255),nullable=True)
 
     request = relationship("Rad_ReqDB",back_populates="details")
-    # test = relationship("Rad_TestDB")

@@ -19,7 +19,7 @@ namespace Home
 
         private void Result_Load(object sender, EventArgs e)
         {
-            leftsidebarControl.SetActiveMenu(SidebarMenu.Request);
+            leftsidebarControl.SetActiveMenu(SidebarMenu.Result);
             headerControl.RefreshFromSession();
             leftsidebarControl.RefreshFromSession();
         }

@@ -69,6 +69,8 @@
     <Compile Include="Lab_Req_Immunology.Designer.cs">
       <DependentUpon>Lab_Req_Immunology.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lab_ResultDetailDto.cs" />
+    <Compile Include="Lab_ResultDto.cs" />
     <Compile Include="LoginDto.cs" />
     <Compile Include="LoginResponseDto.cs" />
     <Compile Include="MainForm.cs">
@@ -111,6 +113,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadResultDto.cs" />
     <Compile Include="RadTestCheckboxMap.cs" />
     <Compile Include="Rad_Req.cs">
       <SubType>Form</SubType>
@@ -126,6 +129,7 @@
     <Compile Include="Rad_Result.Designer.cs">
       <DependentUpon>Rad_Result.cs</DependentUpon>
     </Compile>
+    <Compile Include="Rad_ResultDetailDto.cs" />
     <Compile Include="Request.cs">
       <SubType>Form</SubType>
     </Compile>

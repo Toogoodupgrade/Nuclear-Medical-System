@@ -123,7 +123,7 @@ namespace Home
         private void label_Clear_Pt_Click(object sender, EventArgs e)
         {
             ClearPatient();
-            AppSession.SelectedPatient = null;
+            AppSession.SetSelectedPatient(null);
         }
         private async void text_Search_KeyDown(object sender, KeyEventArgs e)
         {
@@ -136,7 +136,7 @@ namespace Home
                 if (patient != null)
                 {
                     list_SearchResult.Visible = false;
-                    AppSession.SelectedPatient = patient;
+                    CurrentPatientSelected(patient);
                     text_Search.Clear();
                 }
             }
@@ -153,7 +153,7 @@ namespace Home
                 if (patient != null)
                 {
                     list_SearchResult.Visible = false;
-                    AppSession.SelectedPatient = patient;
+                    CurrentPatientSelected(patient);
                     text_Search.Clear();
                 }
             }
@@ -167,7 +167,7 @@ namespace Home
                 if (patient != null)
                 {
                     list_SearchResult.Visible = false;
-                    AppSession.SelectedPatient = patient;
+                    CurrentPatientSelected(patient);
                     text_Search.Clear();
                 }
             }
@@ -226,6 +226,9 @@ namespace Home
             pt_Medical_Condition = "";
             label_pt_Age.Text = "-";
         }
-
+        private void CurrentPatientSelected(PatientDto patient)
+        {
+            AppSession.SetSelectedPatient(patient);
+        }
     }
 }

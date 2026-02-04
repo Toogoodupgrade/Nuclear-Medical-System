@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\",
+  "WorkspaceRootPath": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medicla system\\src\\frontend\\nuclear medical system\\home\\common\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\common\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\rad_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\rad_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medicla system\\src\\frontend\\nuclear medical system\\home\\sidebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\sidebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\lab_req_immunology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\lab_req_immunology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medicla system\\src\\frontend\\nuclear medical system\\home\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\request_external_hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\request_external_hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medicla system\\src\\frontend\\nuclear medical system\\home\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medicla system\\src\\frontend\\nuclear medical system\\home\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medicla system\\src\\frontend\\nuclear medical system\\home\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medicla system\\src\\frontend\\nuclear medical system\\home\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\lab_req_pathology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\lab_req_pathology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\lab_req_pathology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\lab_req_pathology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|c:\\project python\\nuclear medical system\\src\\frontend\\nuclear medical system\\home\\hospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA740D0-A4BC-42C8-A82E-8981C9B733D4}|Home\\Home.csproj|solutionrelative:home\\hospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 224,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "Home\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\LoginResponseDto.cs",
-              "RelativeToolTip": "Home\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Rad_Result.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Rad_Result.cs",
+              "RelativeDocumentMoniker": "Home\\Rad_Result.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Rad_Result.cs",
+              "RelativeToolTip": "Home\\Rad_Result.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T04:04:05.731Z",
+              "WhenOpened": "2026-02-04T06:37:28.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\Login.cs",
-              "RelativeDocumentMoniker": "Home\\Login.cs",
-              "ToolTip": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\Login.cs",
-              "RelativeToolTip": "Home\\Login.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAmwDYAAAAwAAAAAAAAAA==",
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Request.cs",
+              "RelativeDocumentMoniker": "Home\\Request.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Request.cs",
+              "RelativeToolTip": "Home\\Request.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T03:24:52.994Z",
+              "WhenOpened": "2026-02-04T06:37:03.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\MainForm.cs",
-              "RelativeDocumentMoniker": "Home\\MainForm.cs",
-              "ToolTip": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\MainForm.cs [Design]",
-              "RelativeToolTip": "Home\\MainForm.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Program.cs",
+              "RelativeDocumentMoniker": "Home\\Program.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Program.cs",
+              "RelativeToolTip": "Home\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T03:55:40.573Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppSession.cs",
-              "DocumentMoniker": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\Common\\AppSession.cs",
-              "RelativeDocumentMoniker": "Home\\Common\\AppSession.cs",
-              "ToolTip": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\Common\\AppSession.cs",
-              "RelativeToolTip": "Home\\Common\\AppSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T03:22:35.928Z",
+              "WhenOpened": "2026-02-04T06:35:30.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Home\\LoginDto.cs",
-              "ToolTip": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\LoginDto.cs",
-              "RelativeToolTip": "Home\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\MainForm.cs",
+              "RelativeDocumentMoniker": "Home\\MainForm.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\MainForm.cs",
+              "RelativeToolTip": "Home\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T04:03:57.176Z",
+              "WhenOpened": "2026-02-04T06:35:13.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\MainForm.cs",
-              "RelativeDocumentMoniker": "Home\\MainForm.cs",
-              "ToolTip": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\MainForm.cs",
-              "RelativeToolTip": "Home\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACBAAAAAAAAAA==",
+              "Title": "Lab_Req_Pathology.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Lab_Req_Pathology.cs",
+              "RelativeDocumentMoniker": "Home\\Lab_Req_Pathology.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Lab_Req_Pathology.cs",
+              "RelativeToolTip": "Home\\Lab_Req_Pathology.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T03:55:41.79Z",
+              "WhenOpened": "2026-02-04T06:34:55.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SidebarControl.cs",
-              "DocumentMoniker": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\SidebarControl.cs",
-              "RelativeDocumentMoniker": "Home\\SidebarControl.cs",
-              "ToolTip": "C:\\Project Python\\Nuclear Medicla System\\src\\frontend\\Nuclear Medical System\\Home\\SidebarControl.cs",
-              "RelativeToolTip": "Home\\SidebarControl.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAIwKEAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Lab_Req_Pathology.cs [Design]",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Lab_Req_Pathology.cs",
+              "RelativeDocumentMoniker": "Home\\Lab_Req_Pathology.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Lab_Req_Pathology.cs [Design]",
+              "RelativeToolTip": "Home\\Lab_Req_Pathology.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T03:22:47.715Z",
+              "WhenOpened": "2026-02-04T06:34:53.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_Req_Immunology.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Lab_Req_Immunology.cs",
+              "RelativeDocumentMoniker": "Home\\Lab_Req_Immunology.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Lab_Req_Immunology.cs",
+              "RelativeToolTip": "Home\\Lab_Req_Immunology.cs",
+              "ViewState": "AgIAADECAAAAAAAAAAAAwEUCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:34:44.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Request_External_Hospital.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Request_External_Hospital.cs",
+              "RelativeDocumentMoniker": "Home\\Request_External_Hospital.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\Request_External_Hospital.cs",
+              "RelativeToolTip": "Home\\Request_External_Hospital.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAuwLIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:34:34.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalDto.cs",
+              "DocumentMoniker": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\HospitalDto.cs",
+              "RelativeDocumentMoniker": "Home\\HospitalDto.cs",
+              "ToolTip": "C:\\Project Python\\Nuclear Medical System\\src\\frontend\\Nuclear Medical System\\Home\\HospitalDto.cs",
+              "RelativeToolTip": "Home\\HospitalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:34:28.278Z",
               "EditorCaption": ""
             }
           ]

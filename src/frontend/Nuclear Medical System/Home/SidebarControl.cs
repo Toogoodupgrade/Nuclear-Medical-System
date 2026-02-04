@@ -29,6 +29,7 @@ namespace Home
             button_Pending.Click += (s, e) => PendingClicked?.Invoke(this, e);
             button_Result.Click += (s, e) => ResultClicked?.Invoke(this, e);
             button_Logout.Click += (s, e) => LogoutClicked?.Invoke(this, e);
+            AppSession.CurrentEmpChanged += RefreshFromSession;
         }
 
         public void SetActiveMenu(SidebarMenu menu)
@@ -108,6 +109,8 @@ namespace Home
         {
             OpenForm<Login>();
             AppSession.ClearCurrentEmp();
+            label_Name.Text = "";
+            label_Department.Text = "";
         }
 
         private static Dictionary<Type, Form> _forms = new Dictionary<Type, Form>();

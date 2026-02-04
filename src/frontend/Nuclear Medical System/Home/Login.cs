@@ -51,12 +51,8 @@ namespace Home
             }
             var responseJson = await response.Content.ReadAsStringAsync();
             var emp = JsonConvert.DeserializeObject<LoginResponseDto>(responseJson);
-            AppSession.EmpId = emp.emp_id?.Trim();
-            AppSession.Empfname = emp.emp_fname;
-            AppSession.Emplname = emp.emp_lname;
-            AppSession.EmpDepartment = emp.dept_name?.Trim();
+            AppSession.setCurrentEmp(emp);
 
-            MessageBox.Show("Login successfully");
             OpenForm<MainForm>();
         }
         private static Dictionary<Type, Form> _forms = new Dictionary<Type, Form>();
